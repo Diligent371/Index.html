@@ -7,6 +7,7 @@
     <h1>Welcome! I'm DUNCAN MUGO</h1>
 
     <div class="section">
+    
         <h2>About Me</h2>
         <p>.Am a passionate upcoming software developer from WeCan Academy Located behind Safari Park Hotel aprox,150m from USIU main gate.
          I'm currently learning Artificial Intelligence (AI) course, a field of computer science that builds software and systems capable of performing tasks that mimic human intelligence. .</p>
